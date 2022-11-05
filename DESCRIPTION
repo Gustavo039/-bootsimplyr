@@ -1,0 +1,16 @@
+Package: bootsimplyr
+Type: Package
+Title: A Package To Deal With Bootstrap Resampling Method, Parametric Estimation And Estimator Quality Calculation
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Gustavo",
+           family = "Almeida Silva",
+           role = c("aut", "cre"),
+           email = "gustavoalmeidasilva@ice.ufjf.br"))
+Description: It was developed for sample generation via bootstrap, 
+  calculation of statistics from the generated samples 
+  and calculation of the quality of these estimates
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
