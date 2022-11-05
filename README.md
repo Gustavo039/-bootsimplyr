@@ -16,7 +16,7 @@ download and can be installed via the repository on
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Gustavo039/bootsimplyr")
+devtools::install_github("Gustavo039/-bootsimplyr")
 ```
 
 
